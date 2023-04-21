@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Million-year-old viruses help fight cancer, say scientists",
+    "description": "A discovery gives experts new ideas for developing vaccines to treat or even prevent cancer.",
+    "url": "http://www.bbc.co.uk/news/health-65266256",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13777/production/_129353797_gettyimages-1354651238.jpg",
+    "publishedAt": "2023-04-15T10:22:17.390174Z",
+    "content": "Relics of ancient viruses - that have spent millions of years hiding inside human DNA - help the body fight cancer, say scientists. \r\nThe study by the Francis Crick Institute showed the dormant remna… [+3917 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sudan crisis: Gunfire heard as army and paramilitaries clash",
+    "description": "Fighting is reported in the capital Khartoum as both sides accuse the other of attacking their camps.",
+    "url": "http://www.bbc.co.uk/news/live/world-africa-65285254",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-04-15T10:07:17.2335842Z",
+    "content": "On Saturday, residents of central Khartoum were shaken by the sound of\r\ngunfire as clashes erupted between army and the Rapid\r\nSupport Forces (RSF) paramilitary group. \r\nIts not yet clear what trigge… [+725 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sudan: Gunfire and explosions heard in Khartoum",
+    "description": "The reported fighting comes after days of tension between a paramilitary force and the army.",
+    "url": "http://www.bbc.co.uk/news/world-africa-65284945",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-04-15T08:37:17.6400517Z",
+    "content": "Gunfire and explosions have been heard in the Sudanese capital, Khartoum, after days of tension between a notorious paramilitary force and the country's army."
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The Script guitarist Mark Sheehan dies aged 46",
+    "description": "The Irish rock band said Sheehan died in hospital on Friday after a brief illness.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65281865",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E58/production/_129369418_microsoftteams-image.png",
+    "publishedAt": "2023-04-15T04:52:13.1862622Z",
+    "content": "The co-founder and guitarist of Irish rock band The Script, Mark Sheehan, has died.\r\nThe 46-year-old died in hospital on Friday following a brief illness, the band announced.\r\nSheehan formed the grou… [+3420 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Japan PM Fumio Kishida evacuated after what appears to be smoke bomb thrown",
+    "description": "Prime Minister Fumio Kishida leaves the scene unharmed after what appears to be a smoke bomb is thrown.",
+    "url": "http://www.bbc.co.uk/news/world-asia-65284306",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/439B/production/_129370371_e1fbbdd211aff4aff579066ad9e29f3bab6f57ae227_316_3103_17451000x563.jpg",
+    "publishedAt": "2023-04-15T04:52:12.2021328Z",
+    "content": "Media caption, Video appears to show police pile on Japan smoke-bomb suspect\r\nJapan's Prime Minister Fumio Kishida has been evacuated unharmed from a public event after what appeared to be a smoke bo… [+1974 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "How 'judge shopping' led to a showdown over abortion drug mifepristone",
+    "description": "Legal scholars say litigants are shopping around for partisan judges to rule on their case.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65246823",
+    "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+    "publishedAt": "2023-04-15T02:07:14.2028035Z",
+    "content": "Media caption, Watch: Abortion pills explained in 60 seconds\r\nThe Texas judge whose recent ruling could have banned an abortion drug across the US was hand-picked by activists who want to prohibit th… [+5912 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Supreme Court pauses restrictions on abortion pill mifepristone",
+    "description": "The ruling is the latest development in a legal battle over the use of drug mifepristone in the US.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65281568",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-04-14T20:22:20.8116267Z",
+    "content": "The US Supreme Court has temporarily halted a ruling that set limits on access to the abortion pill mifepristone. \r\nJustice Samuel Alito paused the restrictions so that justices can have more time to… [+399 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Top secret' access, leak searches and the Espionage Act - Jack Teixeira's charges in full",
+    "description": "Air National Guardsman Jack Teixeira faces up to 15 years' imprisonment for the leak US documents.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65279689",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1321E/production/_129366387_3f75aac2-cf74-43c8-9094-78be79ef0ae4.jpg",
+    "publishedAt": "2023-04-14T18:22:14.875277Z",
+    "content": "Criminal charges filed against Jack Teixeira, the man alleged to have leaked sensitive US defence documents, shed new light on his access to classified documents, his career in the military, and the … [+5123 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Jack Teixeira: US airman appears in court over Pentagon documents leak",
+    "description": "Jack Teixeira faces charges over the leaking of classified documents on a gaming chat server.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65270966",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-04-14T14:22:23.8116973Z",
+    "content": "Jack Teixeira, 21, wore shackles and a prison uniform as he stood before a federal judge."
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Why are the US intelligence leaks so damaging?",
+    "description": "The BBC's Frank Gardner on the impact of 21-year-old Jack Teixeira's highly classified US military leaks.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65274730",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A9F2/production/_129360534_frankgardner1.jpg",
+    "publishedAt": "2023-04-14T14:07:35.1865194Z",
+    "content": "Jack Teixeira was arrested by the FBI at his family home in Dighton, rural Massachusetts, after being identified as the leader of an online chat group where the documents first emerged.\r\nDozens of le… [+252 chars]"
+    }
+    ]
+    }
